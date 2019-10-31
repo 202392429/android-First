@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
+// Firstt
 public class MainActivity extends AppCompatActivity {
 
     EditText etFirstName,etLastName,etFavFood;
